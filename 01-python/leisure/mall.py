@@ -1,3 +1,14 @@
 def draw_mall():
-    print("mall not found")
+    print(" ")
+    print("---MALL---")
+    print("    _")
+    print("    ||")
+    print("____||____")
+    print("|         |")
+    print("|  Juice  |")
+    print("|         |")
+    print("|         |")
+    print("|         |")
+    print("|_________|")
+    print("")
     return

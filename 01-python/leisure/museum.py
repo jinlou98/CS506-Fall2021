@@ -1,3 +1,13 @@
 def draw_museum():
-    print("museum not found")
+    print("")
+    print("(((((Museum)))))")
+    print("|-----------------")
+    print("|                |")
+    print("|                |")
+    print("|                |")
+    print("|      paint     |")
+    print("|                |")
+    print("|                |")
+    print("|                |")
+    print("|________________|")
     return

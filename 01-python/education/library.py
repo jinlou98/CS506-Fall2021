@@ -1,3 +1,7 @@
 def draw_library():
-    print("library not found")
+    print("")
+    print("-HERE IS A LIBRARY-")
+    print("_________________")
+    print("~~~~~~~~~~~~~~~~")
+    print("_________________")
     return

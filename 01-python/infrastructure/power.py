@@ -1,3 +1,7 @@
 def draw_power_plant():
-    print("power plant not found")
+    print("")
+    print("-HERE IS POWER-")
+    print("                ")
+    print("~~~~~~~~~~~~~~~~")
+    print("                ")
     return

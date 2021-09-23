@@ -1,3 +1,7 @@
 def draw_hospital():
-    print("hospital not found")
+    print("")
+    print("-HERE IS A HOSPITAL-")
+    print("                ")
+    print("###################")
+    print("                ")
     return
